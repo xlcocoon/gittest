@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("222222222");
         System.out.println("xxxxxxxxx");
         System.out.println("yyyyyyyyy");
+        System.out.println("AAAAAAAA");
     }
 }
